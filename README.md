@@ -1,6 +1,6 @@
 # SCM-Debiasing-ACL2023
 
-This repository contains the source code for **Social-Group-Agnostic Bias Mitigation via the Stereotype Content Model** [ACL 2023]
+This repository contains the source code for **[Social-Group-Agnostic Bias Mitigation via the Stereotype Content Model](https://aclanthology.org/2023.acl-long.227/)** publishet at ACL 2023.
 
 # Overview
 
