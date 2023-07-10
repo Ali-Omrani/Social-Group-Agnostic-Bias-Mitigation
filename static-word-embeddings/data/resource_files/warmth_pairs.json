@@ -1,0 +1,17 @@
+ [
+  ["pleasant","unpleasant"],
+  ["liked","disliked"],
+  ["outgoing","shy"],
+  ["sensitive","insensitive"],
+  ["friendliness","unfriendliness"],
+ ["sociable", "unsociable"],
+ ["warm", "cold"],
+  ["warmth", "coldness"],
+  ["honest","dishonest"],
+  ["fair","unfair"],
+  ["loyal","disloyal"],
+  ["right","wrong"],
+  ["innocent","criminal"],
+  ["genuine","fake"],
+  ["reliable","unreliable"]
+ ]
